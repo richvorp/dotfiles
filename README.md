@@ -1,5 +1,5 @@
 # dotfiles
-These are my dotfiles.
+These are my dotfiles. Use at your own risk!
 
 ## Setup
 Only run this after reviewing the code and making sure you want everything in there.
