@@ -15,7 +15,7 @@ brew install libyaml
 brew install gnupg
 
 # http://docs.aws.amazon.com/cli/latest/userguide/cli-chap-getting-started.html
-brew install aws
+brew install awscli
 echo 'To setup aws keys run: aws configure'
 
 #iterm2
