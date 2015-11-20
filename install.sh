@@ -11,5 +11,5 @@ command -v brew >/dev/null 2>&1 || { ruby -e "$(curl -fsSL https://raw.githubuse
 # run all brew stuff
 ./brew.sh
 
-git/.install.sh
+git/install.sh
 cp -r home/. ~
