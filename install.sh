@@ -13,3 +13,6 @@ command -v brew >/dev/null 2>&1 || { ruby -e "$(curl -fsSL https://raw.githubuse
 
 git/install.sh
 cp -r home/. ~
+
+source ~/.profile
+source ~/.bash_profile
