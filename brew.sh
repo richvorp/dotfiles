@@ -27,3 +27,6 @@ brew install csshx
 # setup ruby
 brew install ruby-install
 brew install chruby
+
+# other languages
+brew install lua
