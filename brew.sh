@@ -18,6 +18,10 @@ brew install gnupg
 brew install awscli
 echo 'To setup aws keys run: aws configure'
 
+brew install ansible
+mkdir ~/.ansible
+touch ~/.ansible/hosts
+
 #iterm2
 brew cask install iterm2
 

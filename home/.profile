@@ -20,6 +20,7 @@ export PATH="/usr/local/bin:/usr/local/sbin:$HOME/bin:$PATH"
 # sublime path finding
 export PATH="/Applications/Sublime Text.app/Contents/SharedSupport/bin:$PATH"
 
+export ANSIBLE_HOSTS=~/.ansible/hosts
 # history
 export HISTFILESIZE=2000
 export HISTSIZE=80
